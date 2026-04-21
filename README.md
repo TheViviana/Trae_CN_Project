@@ -1,0 +1,2 @@
+# Trae_CN_Project
+Trae_SOLO_CN_Coding_Agent_Project.
